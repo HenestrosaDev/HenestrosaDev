@@ -8,8 +8,6 @@
 
 ---
 
-IN PROCESS OF RELEASING MY PERSONAL WEBSITE
-
 ### 👤 About Me
 
 I'm Henestrosa, a software developer driven by the excitement of turning my ideas into practical, user-centric software solutions that make a positive impact. In continuous evolution thanks to my learning from the best teacher: experience.
