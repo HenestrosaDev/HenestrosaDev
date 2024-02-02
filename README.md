@@ -35,6 +35,7 @@ I sometimes program with tabs for the sake of accesibility, so I'd highly sugges
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use TFS source control in Android Studio in 2024](https://henestrosa.dev/blog/how-to-use-tfs-source-control-in-android-studio-in-2024)
 - [Dynamic line clamp in React](https://henestrosa.dev/blog/dynamic-line-clamp-in-react)
 - [151 iOS interview questions answered](https://henestrosa.dev/blog/151-ios-interview-questions)
 - [How to add anchor links to headings in Astro](https://henestrosa.dev/blog/how-to-add-anchor-links-to-headings-in-astro)
