@@ -10,7 +10,7 @@
 
 ### 👤 About Me
 
-I'm Henestrosa, a software developer driven by the excitement of turning ideas into practical, user-centered software solutions that focus on improving people's lives. I also enjoy sharing programming insights on my blog and playing guitar when I'm offline. 
+I'm Henestrosa, a software developer driven by the excitement of turning ideas into practical, user-centered software solutions that focus on improving people's lives. I also enjoy sharing programming insights on my [blog](https://henestrosa.dev/blog) and playing guitar when I'm offline. 
 
 In continuous evolution thanks to my learning from the best teacher: experience.
 
