@@ -49,5 +49,5 @@ I sometimes program with tabs for the sake of accesibility, so I'd highly sugges
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henestrosadev@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henestrosadev)
   [![Ko-Fi](https://img.shields.io/badge/kofi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/henestrosadev)
-  [![Personal website](https://img.shields.io/badge/Personal%20website-blue?style=for-the-badge&labelColor=blue)](https://henestrosa.dev)
+  [![Website](https://img.shields.io/badge/Personal%20website-blue?style=for-the-badge&labelColor=blue)](https://henestrosa.dev)
 </div>
