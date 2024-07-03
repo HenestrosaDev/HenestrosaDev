@@ -14,7 +14,7 @@ I'm Henestrosa, a software developer driven by the excitement of turning ideas i
 
 My favorite web stack is the VILT stack (Vue, Inertia, Laravel, and Tailwind CSS). I'm also keen on Astro for static websites.
 
-I sometimes program with tabs for the sake of accesibility, so I'd highly suggest you to check [your Github preferences](https://github.com/settings/appearance) > **Choose the number of spaces a tab is equal to when rendering code**.
+I sometimes program with tabs for accessibility, so I'd highly recommend checking [your Github preferences](https://github.com/settings/appearance) > **Choose the number of spaces a tab is equal to when rendering code**.
 
 ---
 
