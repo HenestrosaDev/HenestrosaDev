@@ -44,7 +44,7 @@ I sometimes program with tabs for accessibility, so I'd highly recommend checkin
 - [151 iOS interview questions answered](https://henestrosa.dev/blog/151-ios-interview-questions)
 <!-- BLOG-POST-LIST:END -->
 
-<hr />
+---
 
 <div align="center">
 
