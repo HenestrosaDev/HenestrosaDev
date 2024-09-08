@@ -37,11 +37,11 @@ I sometimes program with tabs for accessibility, so I'd highly recommend checkin
 ### 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to modify messages from unpushed commits](https://henestrosa.dev/blog/how-to-modify-messages-from-unpushed-commits)
 - [Audiotext reached 100 stars!](https://henestrosa.dev/blog/audiotext-reached-100-stars)
 - [How to add the &quot;Show project&quot; button to a LinkedIn project](https://henestrosa.dev/blog/how-to-add-the-show-project-button-to-a-linkedin-project)
 - [How to use whenLoaded in Laravel API Resources](https://henestrosa.dev/blog/how-to-use-whenloaded-in-laravel-api-resources)
 - [How to use TFS source control in Android Studio in 2024](https://henestrosa.dev/blog/how-to-use-tfs-source-control-in-android-studio-in-2024)
-- [Dynamic line clamp in React](https://henestrosa.dev/blog/dynamic-line-clamp-in-react)
 <!-- BLOG-POST-LIST:END -->
 
 ---
