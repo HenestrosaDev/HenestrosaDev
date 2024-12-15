@@ -12,9 +12,10 @@
 
 I'm Henestrosa, a software developer driven by the excitement of turning ideas into practical, user-centered software solutions that focus on improving people's lives. I also enjoy sharing programming insights on my [blog](https://henestrosa.dev/blog) and playing guitar when I'm offline. 
 
-My favorite web stack is the VILT stack (Vue, Inertia, Laravel, and Tailwind CSS). I'm also keen on Astro for static websites.
-
-I sometimes program with tabs for accessibility, so I'd highly recommend checking [your Github preferences](https://github.com/settings/appearance) > **Choose the number of spaces a tab is equal to when rendering code**.
+Here are some technical aspects that people are often curious about:
+- My go-to web stack for dynamic websites is VILT ([Vue](https://github.com/vuejs/core), [Inertia](https://github.com/inertiajs/inertia-laravel), [Laravel](https://github.com/laravel/laravel), and [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)). For static websites, I'm keen on [Astro](https://github.com/withastro/astro).
+- Since my work focuses on mobile development, I'm "forced" to use [Xcode](https://developer.apple.com/xcode/) and [Android Studio](https://developer.android.com/studio), but I always enable Vim key bindings in both. For other platforms, I currently rely on [Visual Studio Code](https://github.com/microsoft/vscode) with the [VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim) plugin, among others. However, I'm seriously considering switching to [Neovim](https://github.com/neovim/neovim) once I find the time to configure it to my liking.
+- For accessibility reasons, I use tabs instead of spaces for indentation, so I highly recommend checking [your Github preferences](https://github.com/settings/appearance) > **Choose the number of spaces a tab is equal to when rendering code**.
 
 ---
 
