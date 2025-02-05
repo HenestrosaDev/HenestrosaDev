@@ -17,6 +17,15 @@ Here are some technical aspects that people are often curious about:
 - Since my work focuses on mobile development, I'm "forced" to use [Xcode](https://developer.apple.com/xcode/) and [Android Studio](https://developer.android.com/studio), but I always enable [Vim](https://github.com/vim/vim) key bindings in both. For other platforms, I currently rely on [Visual Studio Code](https://github.com/microsoft/vscode) with the [VSCode Neovim](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim) plugin, along with other plugins. However, I'm seriously considering switching to [Neovim](https://github.com/neovim/neovim) once I find the time to configure it to my liking.
 - For accessibility reasons, I use tabs instead of spaces for indentation, so I highly recommend checking [your Github preferences](https://github.com/settings/appearance) > **Choose the number of spaces a tab is equal to when rendering code**.
 
+<details>
+  <summary>-</summary>
+  <br />
+  <div align="center">
+  
+  ![Profile details](about_success.jpg) 
+  </div>
+</details>
+
 ---
 
 ### 📊 GitHub Stats
