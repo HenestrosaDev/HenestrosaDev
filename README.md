@@ -58,6 +58,7 @@ Here are some technical aspects that people are often curious about:
 
 <div align="center">
 
+  [![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HenestrosaDev)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:github@henestrosa.dev)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henestrosadev)
   [![Ko-Fi](https://img.shields.io/badge/kofi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/henestrosadev)
