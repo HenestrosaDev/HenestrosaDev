@@ -10,7 +10,7 @@
 
 ### 👤 About Me
 
-¡Hola! I'm Henestrosa, and I'm a software developer. I'm driven by the excitement of turning ideas into user-centered software solutions that have a positive impact on society. I also enjoy sharing programming insights on my [blog](https://henestrosa.dev/blog) and playing the guitar when I'm offline.
+¡Hola! My name is José Carlos, but online, I go by my _second_ last name, Henestrosa—yes, we have that in Spain. I'm a **software developer** driven by the excitement of turning ideas into user-centered software solutions that have a positive impact on society. I also enjoy sharing programming insights on my [blog](https://henestrosa.dev/blog) and playing the guitar when I'm offline.
 
 Here are some technical aspects that people are often curious about:
 - My go-to web stack for dynamic websites is VILT ([Vue](https://github.com/vuejs/core), [Inertia](https://github.com/inertiajs/inertia-laravel), [Laravel](https://github.com/laravel/laravel), and [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)). For static websites, I'm keen on [Astro](https://github.com/withastro/astro).
