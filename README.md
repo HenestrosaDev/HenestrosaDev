@@ -10,7 +10,9 @@
 
 ### 👤 About Me
 
-¡Hola! My name is José Carlos, but online, I go by my _second_ last name, Henestrosa—yes, we have that in Spain. I'm a **software developer** driven by the excitement of turning ideas into user-centered software solutions that have a positive impact on society. I also enjoy sharing programming insights on my [blog](https://henestrosa.dev/blog) and playing the guitar when I'm offline.
+I trade free software—which I spent hundreds upon hundreds of hours learning to craft—for useless internet points and dopamine rushes. Sounds like a fair deal, right?
+
+Have you ever wondered why people suddenly became an expert at using the em dash—including me?
 
 For accessibility reasons, I use tabs instead of spaces for indentation, so I highly recommend checking [your Github preferences](https://github.com/settings/appearance) > **Choose the number of spaces a tab is equal to when rendering code**.
 
