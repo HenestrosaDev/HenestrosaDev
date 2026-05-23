@@ -8,6 +8,13 @@
 
 ---
 
+> [!WARNING]
+> **Free and Open-Source Android is under threat.**
+>
+> Google will turn Android into a locked-down platform, restricting your essential freedom to install apps of your choice. Make your voice heard.
+>
+> [**Keep Android Open**](https://keepandroidopen.org/).
+
 ### 👤 About Me
 
 I trade free software, which I spent hundreds upon hundreds of hours learning to craft, for useless internet points and dopamine rushes. Sounds like a fair deal, right?
