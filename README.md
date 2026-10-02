@@ -17,8 +17,6 @@
 
 ### 👤 About Me
 
-I trade free software, which I spent hundreds upon hundreds of hours learning to craft, for useless internet points and dopamine rushes. Sounds like a fair deal, right?
-
 For accessibility reasons, I use tabs instead of spaces for indentation, so I highly recommend checking [your Github preferences](https://github.com/settings/appearance) > **Choose the number of spaces a tab is equal to when rendering code**.
 
 <details>
